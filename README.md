@@ -1,1 +1,1 @@
-# Sorting-table-react
+# Sorting-table
