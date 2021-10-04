@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sorting-table-react/static/css/main.9d1b23f6.chunk.css",
+    "main.js": "/Sorting-table-react/static/js/main.f0f5257c.chunk.js",
+    "main.js.map": "/Sorting-table-react/static/js/main.f0f5257c.chunk.js.map",
+    "runtime-main.js": "/Sorting-table-react/static/js/runtime-main.2c07d076.js",
+    "runtime-main.js.map": "/Sorting-table-react/static/js/runtime-main.2c07d076.js.map",
+    "static/js/2.01142864.chunk.js": "/Sorting-table-react/static/js/2.01142864.chunk.js",
+    "static/js/2.01142864.chunk.js.map": "/Sorting-table-react/static/js/2.01142864.chunk.js.map",
+    "index.html": "/Sorting-table-react/index.html",
+    "static/css/main.9d1b23f6.chunk.css.map": "/Sorting-table-react/static/css/main.9d1b23f6.chunk.css.map",
+    "static/js/2.01142864.chunk.js.LICENSE.txt": "/Sorting-table-react/static/js/2.01142864.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c07d076.js",
+    "static/js/2.01142864.chunk.js",
+    "static/css/main.9d1b23f6.chunk.css",
+    "static/js/main.f0f5257c.chunk.js"
+  ]
+}
